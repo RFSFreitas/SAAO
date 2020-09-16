@@ -8,7 +8,9 @@ Disponibilizar informações de obras públicas para gestores públicos e socied
 
 
 ## Arquitetura e tecnologias da proposta:
-Referências
+
+
+## Referências
 AVRITZER, Leonardo (Org);  O Orçamento Participativo e a teoria democrática: um balanço crítico. In: AVRITZER, Leonardo; NAVARRO, Zander (Orgs.). A inovação democrática no Brasil. São Paulo: Cortez, 2003.
  
  
