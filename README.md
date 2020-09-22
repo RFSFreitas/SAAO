@@ -15,9 +15,9 @@ AVRITZER, Leonardo (Org);  O Orçamento Participativo e a teoria democrática: u
  
  
 ## Membros:
-Rogerio Francisco Santana de Freitas, 93973
-João Paulo Fortaleza de Araújo 123147
-Glauber Alex Dias Prado 55938
+- Rogerio Francisco Santana de Freitas, 93973
+- João Paulo Fortaleza de Araújo, 123147
+- Glauber Alex Dias Prado, 55938
  
  
 
