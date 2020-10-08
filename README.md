@@ -1,6 +1,7 @@
-# Processo de Configuração Aqui <https://github.com/RFSFreitas/SAAO/wiki>
+# Processo de Configuração [Wiki](https://github.com/RFSFreitas/SAAO/wiki)
 
-# Ferramenta Online (Tableau Public): https://public.tableau.com/profile/rogerio.freitas#!/vizhome/DashSao/Saao
+# Ferramenta Online (Tableau Public): [SAAO](https://public.tableau.com/profile/rogerio.freitas#!/vizhome/DashSao/Saao)
+![Ferramenta](https://github.com/RFSFreitas/SAAO/blob/master/Auxiliares/FerramentaOnline.jpg)
 
 
 
