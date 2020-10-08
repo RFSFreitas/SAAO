@@ -1,3 +1,9 @@
+# Processo de Configuração Aqui <https://github.com/RFSFreitas/SAAO/wiki>
+
+
+
+
+
 # SAAO - Sistema de Apoio e Acompanhamento de Obras Públicas
 
 ## Definição de Orçamento Participativo:
